@@ -1,6 +1,6 @@
 {
   "name": "git-code-reviewer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "AI-powered pre-commit code reviewer. Automatically reviews staged changes for security vulnerabilities, performance issues, code quality, and best practices using OpenAI, Anthropic, or Google Gemini.",
   "main": "lib/reviewer.js",
   "bin": {
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salman1802/git-code-reviwer.git"
+    "url": "git+https://github.com/salman1802/git-code-reviewer.git"
   },
   "bugs": {
-    "url": "https://github.com/salman1802/git-code-reviwer/issues"
+    "url": "https://github.com/salman1802/git-code-reviewer/issues"
   },
-  "homepage": "https://github.com/salman1802/git-code-reviwer#readme",
+  "homepage": "https://github.com/salman1802/git-code-reviewer#readme",
   "engines": {
     "node": ">=18.0.0"
   },
