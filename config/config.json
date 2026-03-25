@@ -1,0 +1,16 @@
+{
+  "provider": "openai",
+  "model": "gpt-4o",
+  "blockOnSeverity": "critical",
+  "maxDiffLines": 2000,
+  "apiBaseUrl": null,
+  "cacheTimeout": 3600000,
+  "skipPatterns": ["*.lock", "*.min.js", "dist/*", "build/*", "node_modules/*", "*.map"],
+  "rules": {
+    "security": true,
+    "performance": true,
+    "codeQuality": true,
+    "bestPractices": true,
+    "secretsDetection": true
+  }
+}
