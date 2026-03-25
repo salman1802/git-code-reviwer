@@ -283,7 +283,7 @@ function showHelp() {
     ${COLORS.dim}# Bypass review for a single commit${COLORS.reset}
     git commit --no-verify -m "hotfix"
 
-  ${COLORS.bold}More info:${COLORS.reset} https://github.com/salman1802/git-code-reviewer
+  ${COLORS.bold}More info:${COLORS.reset} https://github.com/salman1802/git-code-reviwer
 `);
 }
 
