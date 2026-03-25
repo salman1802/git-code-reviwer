@@ -1,6 +1,6 @@
 {
   "name": "git-code-reviewer",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "AI-powered pre-commit code reviewer. Automatically reviews staged changes for security vulnerabilities, performance issues, code quality, and best practices using OpenAI, Anthropic, or Google Gemini.",
   "main": "lib/reviewer.js",
   "bin": {
